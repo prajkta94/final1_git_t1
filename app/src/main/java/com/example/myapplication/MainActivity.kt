@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
 
         title = findViewById<TextView>(R.id.txt_title)
 
-        title.setText("Hllo welcome to kotlin")
+        title.setText("Hllo welcome to kotlin/////////////////")
 
     }
 }
