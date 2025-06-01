@@ -17,7 +17,7 @@ class Addd : AppCompatActivity() {
 
         f=findViewById<TextView>(R.id.txt_l)
 
-        f.setText("new Axtivity")
+        f.setText("new Axtivity ===========")
 
     }
 }
