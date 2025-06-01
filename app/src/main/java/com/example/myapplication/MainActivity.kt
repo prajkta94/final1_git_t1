@@ -13,10 +13,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_main)
-
         title = findViewById<TextView>(R.id.txt_title)
-
         title.setText("Hllo welcome to kotlin/////////////////")
 
+        ///hojaaaa
     }
 }
